@@ -50,9 +50,11 @@ A correlation heatmap was generated to explore relationships between formulation
 
 ---
 
+
 ### 3. PDI vs Encapsulation Efficiency
 
-<img src="figures/pdi_vs_ee.png" width="700"/>
+<img src="https://raw.githubusercontent.com/Draliahmad/nlc-seaborn-eda/main/figures/pdi_vs_ee.png" width="700"/>
+
 
 
 

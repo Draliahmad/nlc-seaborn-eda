@@ -46,7 +46,8 @@ A correlation heatmap was generated to explore relationships between formulation
 ---
 
 ### 3. PDI vs Encapsulation Efficiency
-![PDI vs Encapsulation Efficiency](figures/pdi_vs_ee.png)
+<img src="figures/pdi_vs_ee.png" width="800">
+
 
 ---
 

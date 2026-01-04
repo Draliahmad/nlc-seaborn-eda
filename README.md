@@ -42,12 +42,22 @@ A correlation heatmap was generated to explore relationships between formulation
 
 ### 2. Particle Size vs Encapsulation Efficiency
 ![Particle Size vs Encapsulation Efficiency](figures/particle_size_vs_ee.png)
+<p align="center">
+  <img src="figures/correlation_heatmap.png" width="900">
+</p>
+<p><b>Figure 1 | Correlation heatmap of NLC physicochemical parameters.</b>
+Pairwise Pearson correlations are shown for thyme oil content, particle size, PDI, zeta potential, and encapsulation efficiency. Warmer colours indicate positive correlations, highlighting co-variation between formulation inputs and encapsulation performance.</p>
 
 ---
 
 ### 3. PDI vs Encapsulation Efficiency
 <img src="figures/pdi_vs_ee.png" width="800">
 
+<p align="center">
+  <img src="figures/correlation_heatmap.png" width="900">
+</p>
+<p><b>Figure 1 | Correlation heatmap of NLC physicochemical parameters.</b>
+Pairwise Pearson correlations are shown for thyme oil content, particle size, PDI, zeta potential, and encapsulation efficiency. Warmer colours indicate positive correlations, highlighting co-variation between formulation inputs and encapsulation performance.</p>
 
 ---
 

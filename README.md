@@ -34,7 +34,7 @@ The analysis workflow includes:
 A correlation heatmap was generated to explore relationships between formulation variables.
 
 ## Correlation Analysis
-## Correlation Analysis
+
 
 ### 1. Correlation Heatmap
 ![Correlation Heatmap](figures/correlation_heatmap.png)
@@ -47,7 +47,8 @@ A correlation heatmap was generated to explore relationships between formulation
 ---
 
 ### 3. PDI vs Encapsulation Efficiency
-![PDI vs Encapsulation Efficiency](figures/pdi_vs_ee.png)
+![PDI vs Encapsulation Efficiency](figures/pdi_vs_ee.png?raw=true)
+
 
 ## Key Findings
 - Thyme oil concentration shows a **strong positive correlation** with particle size, indicating lipid matrix expansion with increasing oil content.

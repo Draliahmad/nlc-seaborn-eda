@@ -47,9 +47,16 @@ A correlation heatmap was generated to explore relationships between formulation
 
 
 ### 3. PDI vs Encapsulation Efficiency
+<p align="center">
+  <img src="figures/particle_size_vs_ee.png" width="700">
+</p>
 
-<img src="https://raw.githubusercontent.com/Draliahmad/nlc-seaborn-eda/main/figures/pdi_vs_ee.png" width="700"/>
-<img src="figures/pdi_vs_ee.png" width="900">
+<p><b>Figure 2 | Particle size vs encapsulation efficiency.</b>
+Scatter plot with linear regression illustrating the relationship between particle size and encapsulation efficiency across NLC formulations.</p>
+
+<ul>
+  <li><b>Key observation:</b> Encapsulation efficiency increases with particle size, suggesting improved drug entrapment with larger lipid matrices.</li>
+</ul>
 
 
 

@@ -48,14 +48,14 @@ A correlation heatmap was generated to explore relationships between formulation
 
 ### 3. PDI vs Encapsulation Efficiency
 <p align="center">
-  <img src="figures/particle_size_vs_ee.png" width="700">
+  <img src="figures/pdi_vs_ee.png" width="700">
 </p>
 
-<p><b>Figure 2 | Particle size vs encapsulation efficiency.</b>
-Scatter plot with linear regression illustrating the relationship between particle size and encapsulation efficiency across NLC formulations.</p>
+<p><b>Figure 3 | PDI vs encapsulation efficiency.</b>
+Scatter plot with linear regression illustrating the relationship between polydispersity index (PDI) and encapsulation efficiency across nanostructured lipid carrier formulations.</p>
 
 <ul>
-  <li><b>Key observation:</b> Encapsulation efficiency increases with particle size, suggesting improved drug entrapment with larger lipid matrices.</li>
+  <li><b>Key observation:</b> Lower PDI values are associated with higher encapsulation efficiency, indicating improved formulation homogeneity.</li>
 </ul>
 
 

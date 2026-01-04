@@ -36,15 +36,18 @@ A correlation heatmap was generated to explore relationships between formulation
 ## Correlation Analysis
 ## Correlation Analysis
 
-### Correlation Heatmap
+### 1. Correlation Heatmap
 ![Correlation Heatmap](figures/correlation_heatmap.png)
 
-### Particle Size vs Encapsulation Efficiency
+---
+
+### 2. Particle Size vs Encapsulation Efficiency
 ![Particle Size vs Encapsulation Efficiency](figures/particle_size_vs_ee.png)
 
-### PDI vs Encapsulation Efficiency
-![PDI vs Encapsulation Efficiency](figures/pdi_vs_ee.png)
+---
 
+### 3. PDI vs Encapsulation Efficiency
+![PDI vs Encapsulation Efficiency](figures/pdi_vs_ee.png)
 
 ## Key Findings
 - Thyme oil concentration shows a **strong positive correlation** with particle size, indicating lipid matrix expansion with increasing oil content.

@@ -36,18 +36,23 @@ A correlation heatmap was generated to explore relationships between formulation
 ## Correlation Analysis
 
 
+## Correlation Analysis
+
 ### 1. Correlation Heatmap
-![Correlation Heatmap](figures/correlation_heatmap.png)
+
+<img src="figures/correlation_heatmap.png" width="700"/>
 
 ---
 
 ### 2. Particle Size vs Encapsulation Efficiency
-![Particle Size vs Encapsulation Efficiency](figures/particle_size_vs_ee.png)
+
+<img src="figures/particle_size_vs_ee.png" width="700"/>
 
 ---
 
 ### 3. PDI vs Encapsulation Efficiency
-![PDI vs Encapsulation Efficiency](figures/pdi_vs_ee.png?raw=true)
+
+<img src="figures/pdi_vs_ee.png" width="700"/>
 
 
 

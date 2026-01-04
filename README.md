@@ -33,7 +33,10 @@ The analysis workflow includes:
 
 A correlation heatmap was generated to explore relationships between formulation variables.
 
----
+## Correlation Analysis
+
+![Correlation Heatmap of NLC Physicochemical Parameters](figures/correlation_heatmap.png)
+
 
 ## Key Findings
 - Thyme oil concentration shows a **strong positive correlation** with particle size, indicating lipid matrix expansion with increasing oil content.

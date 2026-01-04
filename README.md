@@ -50,6 +50,7 @@ A correlation heatmap was generated to explore relationships between formulation
 ![PDI vs Encapsulation Efficiency](figures/pdi_vs_ee.png?raw=true)
 
 
+
 ## Key Findings
 - Thyme oil concentration shows a **strong positive correlation** with particle size, indicating lipid matrix expansion with increasing oil content.
 - Encapsulation efficiency correlates positively with particle size and negatively with PDI.
